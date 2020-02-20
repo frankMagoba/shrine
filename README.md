@@ -1,6 +1,6 @@
 # shrine
 
-A new eCommerce Flutter App project.
+An eCommerce Flutter App project.
 
 
 
